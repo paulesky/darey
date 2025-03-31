@@ -21,6 +21,10 @@ Download Vscode: Go to [vscode](https://code.visualstudio.com/)
 
 ![new](succ.png)
 
+#### Ubuntu
+
+![ubuntu](ubuntu-login-screen.jpg)
+
 ## Git 
 
 #### Windows Installation
@@ -39,8 +43,18 @@ Download for Windows [git](https://git-scm.com/downloads/win)
 
 If yourinstallation is successful, it will have the following look after launching
 ![success](git_w.png)
+![git](gitface.png)
+![git version](git_version.png)
+
+
+
+##### Github
+
+![github](github.png)
+
 
 ### Windows Installation:
+
 
 * Download Virtual Box: [oracle VirtualBox](https://www.virtualbox.org/)
 
@@ -53,6 +67,7 @@ If yourinstallation is successful, it will have the following look after launchi
 * Open tha start menu and type Virtual box.
 
 ![complete installation](virtt.png)
+![virtual](virtual.png)
 
 
 #### Ubuntu on VirtualBox(windows Host)
@@ -75,6 +90,14 @@ If yourinstallation is successful, it will have the following look after launchi
 
 * Remove the installation media when prompted, the power off the virtual machine, and ubuntu will boot to desktop as shown below , the you can enter the login credentials you created during installation.ubuntu will boot to desktop as shown below, then you can enter the login credentials you created during installation
 ![login](https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2022/01/ubuntu-login-screen.png?ssl=1)
+
+
+
+##### AWS INSTALLATION
+
+![AWS](01-console-home-previous-1.png)
+![aws](aws_ids.png)
+![home](Home_screenaws.png)
 
 
 
