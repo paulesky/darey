@@ -16,6 +16,8 @@ Download Vscode: Go to [vscode](https://code.visualstudio.com/)
 - open the start menu or use the desktop shortcut 
 
 ![Installer](vscode.png)
+![visual studio](v1.png)
+![visua](v2.png)
 
 -If your installation is successfull you will have the followingpage shown
 
@@ -45,13 +47,15 @@ If yourinstallation is successful, it will have the following look after launchi
 ![success](git_w.png)
 ![git](gitface.png)
 ![git version](git_version.png)
+![git](git1.png)
+![git2](git2.png)
 
 
 
 ##### Github
 ![github_home](githib.png)
 ![github](github.png)
-
+![github](github1.png)
 
 
 ### Windows Installation:
@@ -69,6 +73,8 @@ If yourinstallation is successful, it will have the following look after launchi
 
 ![complete installation](virtt.png)
 ![virtual](virtual.png)
+![virtual](virt1.png)
+![virtual](virt3.png)
 
 
 #### Ubuntu on VirtualBox(windows Host)
@@ -98,6 +104,7 @@ If yourinstallation is successful, it will have the following look after launchi
 
 ![AWS](01-console-home-previous-1.png)
 ![aws](aws_ids.png)
+![aws](aws1.png)
 ![home](Home_screenaws.png)
 
 
