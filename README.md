@@ -49,8 +49,9 @@ If yourinstallation is successful, it will have the following look after launchi
 
 
 ##### Github
-
+![github_home](githib.png)
 ![github](github.png)
+
 
 
 ### Windows Installation:
