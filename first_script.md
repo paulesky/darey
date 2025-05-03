@@ -24,3 +24,4 @@
 
 ![The first script](permission.png)
 
+![This is new comment](comment.png)
