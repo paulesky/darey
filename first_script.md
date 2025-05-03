@@ -1,9 +1,8 @@
 # Creation of the shell script
--- using the touch command to create the shell
+-- using the touch command to create the shSell
 ![This is new one](my_first_script.png)
 
 ![confirm the  shell created](first_script.png)
-
 ## Error Message
 
 * After completing the shell created trying to run the script brougt out an error message
